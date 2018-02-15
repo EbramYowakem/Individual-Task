@@ -21,3 +21,4 @@ git branch ReadMe
 git checkout <branch_name> // here master or ReadMe
 
 git merge <branch-name> //merge between the current branch and the branch <branch-name>
+
